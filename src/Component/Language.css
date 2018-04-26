@@ -1,0 +1,10 @@
+.language {
+    display:flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: darkblue;
+    color:white;
+    margin-top:0;
+    padding-top:5px;
+    padding-bottom:10px;
+}
